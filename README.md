@@ -1,4 +1,4 @@
-# Rokomari-Ripper
+# rokomari.com-scraper
 
 <img src="https://wakapi-qt1b.onrender.com/api/badge/fahad/interval:any/project:Rokomari-Scraper" 
      alt="Wakapi Time Tracking" 
