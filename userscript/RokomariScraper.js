@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Rokomari Ripper
 // @namespace    http://tampermonkey.net/ (or your preferred namespace)
-// @version      1.4.1 // Incremented version for the change
+// @version      1.4.1
 // @description  Extracts product title, summary, main image, and list images (forcing 1104X1581 size) from Rokomari product/book pages and displays them in an overlay with copy buttons.
-// @author       Your Name (or handle)
+// @author       Fahad
 // @match        *://*.rokomari.com/book/*
 // @match        *://*.rokomari.com/product/*
 // @grant        GM_addStyle
